@@ -1,0 +1,53 @@
+body {
+  font-family: "Nuosu SIL", serif;
+  background-color: rgb(178, 224, 223);
+}
+.navbar {
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  padding: 10px !important;
+}
+.top-header-agile {
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+}
+.top-header-agile ul li {
+  display: inline;
+  list-style: none;
+  color: #fff;
+}
+#spark-img {
+  height: 40px;
+  width: 40px;
+}
+.nav-item {
+  font-weight: bold;
+  margin-left: 20px;
+}
+.navbar-collapse {
+  margin-left: 50%;
+}
+.col-md-4,
+.col-md-3,
+.col-md-10 {
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,255,255,0.9307073171065301) 0%, rgba(151,200,196,1) 0%);
+  margin: 23px;
+}
+.quote {
+  font-weight: bold;
+  color: #544f4a;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  font-size: 20px;
+}
+.col-md-6 {
+  margin-top: 50px;
+}
+.footer {
+  text-align: center;
+  margin-top: 200px;
+  background-image: linear-gradient(15deg, #80d0c7 100%, #13547a 0%);
+  padding: 15px;
+}
+.footer-ele {
+  margin: 30px;
+}
